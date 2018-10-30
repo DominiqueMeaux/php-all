@@ -1,0 +1,10 @@
+body{
+    background: url("animation.gif") no-repeat, url("animation2.gif") no-repeat top right ;
+}
+.container{
+    background-image: url("animation3.gif");
+    margin-top : 50px;
+}
+h2{
+    text-align: center;
+}

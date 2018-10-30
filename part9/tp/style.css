@@ -1,0 +1,15 @@
+
+td, table, th{
+    font-family: 'Nosifer', cursive;
+    border-collapse: collapse;
+    border: 3px solid #e2531f;
+    text-align: center;
+    color: red;
+}
+h1{
+    font-family: 'Nosifer', cursive;
+    color:#7e81d3;
+}
+.noDays{
+    background: #7e81d3;
+}

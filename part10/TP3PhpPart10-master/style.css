@@ -1,0 +1,18 @@
+body{
+    font-family: 'Neucha', cursive;
+    color: #d17b88;
+    font-weight: bold;
+    background-color: #bfd8bd;
+}
+h1{
+    font-size: 4em;
+}
+h3{
+    font-size: 3em;
+}
+p{
+    font-size: 1.5em
+}
+img{
+    width : 100%;
+}

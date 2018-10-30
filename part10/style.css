@@ -1,0 +1,39 @@
+  /* The animation code */
+@keyframes example {
+    0%   {background-color: red;}
+    5%   {background-color: yellow;}
+    10%  {background-color: #42d7f4;}
+    15%  {background-color: #42f48c;}
+    20%  {background-color: #5ff442;}
+    25%  {background-color: #dd9b9b;}
+    30%  {background-color: #963446;}
+    35%  {background-color: #ff0061;}
+    40%  {background-color: #ff00bb;}
+    45%  {background-color: #72336e;}
+    50%  {background-color: blue;}
+    55%  {background-color: #3e014f;}
+    60%  {background-color: #bc84cc;}
+    65%  {background-color: #8984cc;}
+    70%  {background-color: #42a1f4;}
+    75%  {background-color: #f45942;}
+    80%  {background-color: #f48642;}
+    85%  {background-color: #f4c242;}
+    90%  {background-color: #e5f442;}
+    95%  {background-color: #a1f442;}
+    100% {background-color: green;}
+}
+
+/* The element to apply the animation to */
+body{
+    background-color: red;
+    animation-name: example;
+    animation-duration: 15s;
+    animation-iteration-count: infinite;
+      animation-timing-function: linear;
+       animation-direction: alternate;
+}
+label{
+  font-size: 40px;
+  color: black;
+font-family: 'Chango', cursive;
+}
